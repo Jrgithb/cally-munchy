@@ -1,0 +1,78 @@
+.reservation {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+ 
+  .reservation .div {
+    background-color: #ffffff;
+    height: 963.36px;
+    position: relative;
+    width: 1316.41px;
+  }
+ 
+ 
+ 
+  .reservation .overlap-group {
+    height: 418px;
+    left: 39px;
+    position: absolute;
+    top: 302px;
+    width: 481px;
+  }
+ 
+  .reservation .div-block {
+    height: 418px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 430px;
+  }
+ 
+  .reservation .frame {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    left: 155px;
+    padding: 11.48px 17.22px;
+    position: relative;
+    top: 178px;
+  }
+ 
+  .reservation .text-wrapper {
+    color: #000000;
+    font-size: 17.2px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.96px;
+    position: relative;
+    width: fit-content;
+  }
+ 
+  .booking-btn{
+    border: 2px solid #fcb715;
+    background-color: #fcb715;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+ 
+  }
+ 
+  .booking-btn:hover { transform: scale(1.25);}
+ 
+  .reservation .text-wrapper-2 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    height: 59px;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 88px;
+  }
