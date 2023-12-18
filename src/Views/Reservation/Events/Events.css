@@ -1,0 +1,22 @@
+.header {
+    height: 60px;
+    width: 450px;
+}
+
+.header .text-contain {
+    color: black;
+    font-size: 56px;
+}
+
+.it-all-begins-with {
+    color: black;
+    font-size: 13.6px;
+}
+
+.learn-more-btn {
+    align-items: center;
+    background-color: #fcb715;
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+}
