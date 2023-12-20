@@ -1,6 +1,6 @@
 .header {
-    height: 60px;
-    width: 495px;
+   height: 57px;
+   width: 472px;
 }
 
 
@@ -13,17 +13,32 @@
 .it-all-begins-with {
     color: black;
     font-size: 13.6px;
-    
+    height: 20px;
+    width: 200px;
+
+
 }
 
 .learn-more-btn {
     align-items: center;
+    border: 2px solid #fcb715;
     background-color: #fcb715;
     display: flex;
     justify-content: center;
     cursor: pointer;
-    padding: 0px;
+    color: #000000;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 16.4px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.91px;
+    position: relative;
+    width: fit-content;
+    left: 35%;
+
 }
 
-.learn-more-btn:hover {transform: scale(1.25);}
-
+.learn-more-btn:hover {
+    transform: scale(1.25);
+}
