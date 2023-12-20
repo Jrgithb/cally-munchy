@@ -1,0 +1,953 @@
+.Drinks-menu {
+    height: 888px;
+    overflow: hidden;
+    position: relative;
+    width: 599px;
+}
+
+.Drinks-menu .div {
+    height: 79px;
+    left: 26px;
+    position: absolute;
+    top: 24px;
+    width: 154px;
+}
+
+.Drinks-menu .text-wrapper {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 15.7px;
+    font-weight: 700;
+    height: 19px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4px;
+}
+
+.Drinks-menu .div-2 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 129px;
+}
+
+.Drinks-menu .span {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.Drinks-menu .text-wrapper-2 {
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+}
+
+.Drinks-menu .COURVOSIER {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+    width: 129px;
+}
+
+.Drinks-menu .overlap {
+    height: 248px;
+    left: 16px;
+    position: absolute;
+    top: 141px;
+    width: 146px;
+}
+
+.Drinks-menu .div-3 {
+    height: 79px;
+    left: 10px;
+    overflow: hidden;
+    position: absolute;
+    top: 18px;
+    width: 94px;
+}
+
+.Drinks-menu .text-wrapper-3 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 77px;
+}
+
+.Drinks-menu .text-wrapper-4 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+    width: 90px;
+}
+
+.Drinks-menu .overlap-group {
+    height: 248px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 146px;
+}
+
+.Drinks-menu .group {
+    height: 108px;
+    left: 0;
+    position: absolute;
+    top: 140px;
+    width: 118px;
+}
+
+.Drinks-menu .frame-wrapper {
+    height: 108px;
+    overflow: hidden;
+}
+
+.Drinks-menu .div-4 {
+    height: 94px;
+    left: 11px;
+    position: relative;
+    top: 4px;
+    width: 137px;
+}
+
+.Drinks-menu .div-5 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 76px;
+    width: 129px;
+}
+
+.Drinks-menu .text-wrapper-5 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 53px;
+    width: 129px;
+}
+
+.Drinks-menu .div-6 {
+    height: 236px;
+    left: 112px;
+    position: absolute;
+    top: 0;
+    width: 34px;
+}
+
+.Drinks-menu .text-wrapper-6 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 42px;
+}
+
+.Drinks-menu .text-wrapper-7 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 66px;
+}
+
+.Drinks-menu .text-wrapper-8 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 193px;
+}
+
+.Drinks-menu .text-wrapper-9 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 220px;
+}
+
+.Drinks-menu .text-wrapper-10 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 168px;
+}
+
+.Drinks-menu .div-7 {
+    height: 92px;
+    left: 314px;
+    overflow: hidden;
+    position: absolute;
+    top: 236px;
+    width: 154px;
+}
+
+.Drinks-menu .text-wrapper-11 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 113px;
+}
+
+.Drinks-menu .text-wrapper-12 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 49px;
+    width: 108px;
+}
+
+.Drinks-menu .KOPPARBERG-s-l {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 75px;
+    width: 106px;
+}
+
+.Drinks-menu .text-wrapper-13 {
+    font-size: 8.3px;
+}
+
+.Drinks-menu .rectangle {
+    height: 92px;
+    left: 2841px;
+    position: absolute;
+    top: -3383px;
+    width: 92px;
+}
+
+.frame .overlap-2 {
+    height: 119px;
+    left: 317px;
+    position: absolute;
+    top: 353px;
+    width: 154px;
+}
+
+.Drinks-menu .div-8 {
+    height: 119px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 154px;
+}
+
+.Drinks-menu .text-wrapper-14 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 74px;
+    width: 108px;
+}
+
+.Drinks-menu .text-wrapper-15 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 99px;
+    width: 108px;
+}
+
+.Drinks-menu .div-9 {
+    height: 139px;
+    left: 322px;
+    position: absolute;
+    top: 523px;
+    width: 154px;
+}
+
+.Drinks-menu .text-wrapper-16 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 69px;
+    width: 108px;
+}
+
+.Drinks-menu .text-wrapper-17 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    width: 108px;
+}
+
+.Drinks-menu .div-10 {
+    height: 100px;
+    left: 316px;
+    position: absolute;
+    top: 661px;
+    width: 154px;
+}
+
+.Drinks-menu .text-wrapper-18 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 53px;
+    width: 108px;
+}
+
+.Drinks-menu .text-wrapper-19 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 77px;
+    width: 108px;
+}
+
+.Drinks-menu .overlap-3 {
+    background-color: #d9d9d9;
+    height: 295px;
+    left: -1px;
+    position: absolute;
+    top: 400px;
+    width: 207px;
+}
+
+.Drinks-menu .overlap-4 {
+    height: 206px;
+    left: -54px;
+    position: absolute;
+    top: 77px;
+    width: 234px;
+}
+
+.Drinks-menu .overlap-5 {
+    height: 165px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 234px;
+}
+
+.Drinks-menu .p {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 13.6px;
+    font-weight: 700;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 33px;
+    transform: rotate(-89.76deg);
+    width: 132px;
+}
+
+.Drinks-menu .div-wrapper {
+    height: 108px;
+    left: 84px;
+    position: absolute;
+    top: 0;
+    width: 150px;
+}
+
+.Drinks-menu .frame-wrapper-2 {
+    height: 108px;
+}
+
+.Drinks-menu .div-11 {
+    height: 94px;
+    left: 11px;
+    overflow: hidden;
+    position: relative;
+    top: 4px;
+    width: 137px;
+}
+
+.Drinks-menu .div-12 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 187px;
+}
+
+.Drinks-menu .div-13 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 31px;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 45px;
+    width: 168px;
+}
+
+.Drinks-menu .div-14 {
+    height: 94px;
+    left: 95px;
+    overflow: hidden;
+    position: absolute;
+    top: 112px;
+    width: 137px;
+}
+
+.Drinks-menu .overlap-6 {
+    height: 48px;
+    left: 2px;
+    position: absolute;
+    top: 45px;
+    width: 126px;
+}
+
+.Drinks-menu .text-wrapper-20 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 26px;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 62px;
+}
+
+.Drinks-menu .text-wrapper-21 {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    width: 126px;
+}
+
+.Drinks-menu .group-2 {
+    height: 72px;
+    left: 25px;
+    position: absolute;
+    top: 5px;
+    width: 151px;
+}
+
+.Drinks-menu .frame-wrapper-3 {
+    height: 72px;
+    overflow: hidden;
+}
+
+.Drinks-menu .text-wrapper-22 {
+    font-size: 9.2px;
+}
+
+.Drinks-menu .text-wrapper-23 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 190px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 64px;
+}
+
+.Drinks-menu .text-wrapper-24 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 191px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 109px;
+}
+
+.Drinks-menu .text-wrapper-25 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 191px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 262px;
+}
+
+.Drinks-menu .text-wrapper-26 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 191px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 237px;
+}
+
+.Drinks-menu .text-wrapper-27 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 191px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 215px;
+}
+
+.Drinks-menu .text-wrapper-28 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 190px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 37px;
+}
+
+.Drinks-menu .group-3 {
+    height: 181px;
+    left: 24px;
+    position: absolute;
+    top: 707px;
+    width: 243px;
+}
+
+.frame .overlap-wrapper {
+    height: 181px;
+}
+
+.Drinks-menu .overlap-7 {
+    height: 140px;
+    left: 2px;
+    position: relative;
+    top: 16px;
+    width: 208px;
+}
+
+.Drinks-menu .div-15 {
+    height: 139px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 208px;
+}
+
+.Drinks-menu .overlap-group-2 {
+    height: 15px;
+    left: 3px;
+    position: absolute;
+    top: 53px;
+    width: 188px;
+}
+
+.Drinks-menu .PINOT-GRIGIO-WHITE {
+    color: #000000;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 169px;
+}
+
+.Drinks-menu .text-wrapper-29 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 10.4px;
+    font-weight: 700;
+    height: 13px;
+    left: 164px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+}
+
+.Drinks-menu .text-wrapper-30 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 10.4px;
+    font-weight: 700;
+    height: 13px;
+    left: 166px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+}
+
+.Drinks-menu .text-wrapper-31 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 10.4px;
+    font-weight: 700;
+    height: 13px;
+    left: 166px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+}
+
+.Drinks-menu .text-wrapper-32 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 10.4px;
+    font-weight: 700;
+    height: 13px;
+    left: 166px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+}
+
+.Drinks-menu .WINE-CHAMPAGNE {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 15.7px;
+    font-weight: 700;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 185px;
+}
+
+.Drinks-menu .text-wrapper-33 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 15.7px;
+    font-weight: 700;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 119px;
+    width: 185px;
+}
+
+.Drinks-menu .div-16 {
+    height: 525px;
+    left: 476px;
+    position: absolute;
+    top: 229px;
+    width: 44px;
+}
+
+.Drinks-menu .overlap-8 {
+    height: 15px;
+    left: 17px;
+    position: absolute;
+    top: 57px;
+    width: 8px;
+}
+
+.Drinks-menu .text-wrapper-34 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+}
+
+.Drinks-menu .text-wrapper-35 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+}
+
+.Drinks-menu .text-wrapper-36 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 82px;
+}
+
+.Drinks-menu .text-wrapper-37 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 317px;
+}
+
+.Drinks-menu .text-wrapper-38 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 359px;
+}
+
+.Drinks-menu .text-wrapper-39 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 384px;
+}
+
+.Drinks-menu .text-wrapper-40 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 484px;
+}
+
+.Drinks-menu .text-wrapper-41 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 21px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 510px;
+}
+
+.Drinks-menu .text-wrapper-42 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 459px;
+}
+
+.Drinks-menu .text-wrapper-43 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 340px;
+}
+
+.Drinks-menu .text-wrapper-44 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 169px;
+}
+
+.Drinks-menu .text-wrapper-45 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    height: 15px;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 145px;
+}
