@@ -2,8 +2,8 @@ import "./Drinks.css"
 
 const Drinks = () => {
     return (
-        <div className="Drinks-menu">
-
+        <div className="frame">
+            <div className="Drinks-label">Drinks Menu</div>
             <div className="div">
                 <div className="text-wrapper">COGNAC</div>
                 <p className="div-2">
@@ -179,6 +179,7 @@ const Drinks = () => {
                 <div className="text-wrapper-45">4</div>
             </div>
         </div>
+
     );
 };
 

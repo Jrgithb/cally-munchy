@@ -1,11 +1,11 @@
-.Drinks-menu {
+.frame {
     height: 888px;
     overflow: hidden;
     position: relative;
     width: 599px;
 }
 
-.Drinks-menu .div {
+.frame .div {
     height: 79px;
     left: 26px;
     position: absolute;
@@ -13,7 +13,13 @@
     width: 154px;
 }
 
-.Drinks-menu .text-wrapper {
+.Drinks-label {
+    color: #000000;
+
+    
+}
+
+.frame .text-wrapper {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 15.7px;
@@ -26,7 +32,7 @@
     top: 4px;
 }
 
-.Drinks-menu .div-2 {
+.frame .div-2 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -40,7 +46,7 @@
     width: 129px;
 }
 
-.Drinks-menu .span {
+.frame .span {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -48,12 +54,12 @@
     letter-spacing: 0;
 }
 
-.Drinks-menu .text-wrapper-2 {
+.frame .text-wrapper-2 {
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
 }
 
-.Drinks-menu .COURVOSIER {
+.frame .COURVOSIER {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -67,7 +73,7 @@
     width: 129px;
 }
 
-.Drinks-menu .overlap {
+.frame .overlap {
     height: 248px;
     left: 16px;
     position: absolute;
@@ -75,7 +81,7 @@
     width: 146px;
 }
 
-.Drinks-menu .div-3 {
+.frame .div-3 {
     height: 79px;
     left: 10px;
     overflow: hidden;
@@ -84,7 +90,7 @@
     width: 94px;
 }
 
-.Drinks-menu .text-wrapper-3 {
+.frame .text-wrapper-3 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -98,7 +104,7 @@
     width: 77px;
 }
 
-.Drinks-menu .text-wrapper-4 {
+.frame .text-wrapper-4 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -112,7 +118,7 @@
     width: 90px;
 }
 
-.Drinks-menu .overlap-group {
+.frame .overlap-group {
     height: 248px;
     left: 0;
     position: absolute;
@@ -120,7 +126,7 @@
     width: 146px;
 }
 
-.Drinks-menu .group {
+.frame .group {
     height: 108px;
     left: 0;
     position: absolute;
@@ -128,12 +134,12 @@
     width: 118px;
 }
 
-.Drinks-menu .frame-wrapper {
+.frame .frame-wrapper {
     height: 108px;
     overflow: hidden;
 }
 
-.Drinks-menu .div-4 {
+.frame .div-4 {
     height: 94px;
     left: 11px;
     position: relative;
@@ -141,7 +147,7 @@
     width: 137px;
 }
 
-.Drinks-menu .div-5 {
+.frame .div-5 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -155,7 +161,7 @@
     width: 129px;
 }
 
-.Drinks-menu .text-wrapper-5 {
+.frame .text-wrapper-5 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -169,7 +175,7 @@
     width: 129px;
 }
 
-.Drinks-menu .div-6 {
+.frame .div-6 {
     height: 236px;
     left: 112px;
     position: absolute;
@@ -177,7 +183,7 @@
     width: 34px;
 }
 
-.Drinks-menu .text-wrapper-6 {
+.frame .text-wrapper-6 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -190,7 +196,7 @@
     top: 42px;
 }
 
-.Drinks-menu .text-wrapper-7 {
+.frame .text-wrapper-7 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -203,7 +209,7 @@
     top: 66px;
 }
 
-.Drinks-menu .text-wrapper-8 {
+.frame .text-wrapper-8 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -216,7 +222,7 @@
     top: 193px;
 }
 
-.Drinks-menu .text-wrapper-9 {
+.frame .text-wrapper-9 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -229,7 +235,7 @@
     top: 220px;
 }
 
-.Drinks-menu .text-wrapper-10 {
+.frame .text-wrapper-10 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -242,7 +248,7 @@
     top: 168px;
 }
 
-.Drinks-menu .div-7 {
+.frame .div-7 {
     height: 92px;
     left: 314px;
     overflow: hidden;
@@ -251,7 +257,7 @@
     width: 154px;
 }
 
-.Drinks-menu .text-wrapper-11 {
+.frame .text-wrapper-11 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -265,7 +271,7 @@
     width: 113px;
 }
 
-.Drinks-menu .text-wrapper-12 {
+.frame .text-wrapper-12 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -279,7 +285,7 @@
     width: 108px;
 }
 
-.Drinks-menu .KOPPARBERG-s-l {
+.frame .KOPPARBERG-s-l {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -293,15 +299,15 @@
     width: 106px;
 }
 
-.Drinks-menu .text-wrapper-13 {
+.frame .text-wrapper-13 {
     font-size: 8.3px;
 }
 
-.Drinks-menu .rectangle {
+.frame .rectangle {
     height: 92px;
-    left: 2841px;
+    left: 2769px;
     position: absolute;
-    top: -3383px;
+    top: -3510px;
     width: 92px;
 }
 
@@ -313,7 +319,7 @@
     width: 154px;
 }
 
-.Drinks-menu .div-8 {
+.frame .div-8 {
     height: 119px;
     left: 0;
     position: absolute;
@@ -321,7 +327,7 @@
     width: 154px;
 }
 
-.Drinks-menu .text-wrapper-14 {
+.frame .text-wrapper-14 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -335,7 +341,7 @@
     width: 108px;
 }
 
-.Drinks-menu .text-wrapper-15 {
+.frame .text-wrapper-15 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -349,7 +355,7 @@
     width: 108px;
 }
 
-.Drinks-menu .div-9 {
+.frame .div-9 {
     height: 139px;
     left: 322px;
     position: absolute;
@@ -357,7 +363,7 @@
     width: 154px;
 }
 
-.Drinks-menu .text-wrapper-16 {
+.frame .text-wrapper-16 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -371,7 +377,7 @@
     width: 108px;
 }
 
-.Drinks-menu .text-wrapper-17 {
+.frame .text-wrapper-17 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -385,7 +391,7 @@
     width: 108px;
 }
 
-.Drinks-menu .div-10 {
+.frame .div-10 {
     height: 100px;
     left: 316px;
     position: absolute;
@@ -393,7 +399,7 @@
     width: 154px;
 }
 
-.Drinks-menu .text-wrapper-18 {
+.frame .text-wrapper-18 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -407,7 +413,7 @@
     width: 108px;
 }
 
-.Drinks-menu .text-wrapper-19 {
+.frame .text-wrapper-19 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -421,7 +427,7 @@
     width: 108px;
 }
 
-.Drinks-menu .overlap-3 {
+.frame .overlap-3 {
     background-color: #d9d9d9;
     height: 295px;
     left: -1px;
@@ -430,7 +436,7 @@
     width: 207px;
 }
 
-.Drinks-menu .overlap-4 {
+.frame .overlap-4 {
     height: 206px;
     left: -54px;
     position: absolute;
@@ -438,7 +444,7 @@
     width: 234px;
 }
 
-.Drinks-menu .overlap-5 {
+.frame .overlap-5 {
     height: 165px;
     left: 0;
     position: absolute;
@@ -446,7 +452,7 @@
     width: 234px;
 }
 
-.Drinks-menu .p {
+.frame .p {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 13.6px;
@@ -461,7 +467,7 @@
     width: 132px;
 }
 
-.Drinks-menu .div-wrapper {
+.frame .div-wrapper {
     height: 108px;
     left: 84px;
     position: absolute;
@@ -469,11 +475,11 @@
     width: 150px;
 }
 
-.Drinks-menu .frame-wrapper-2 {
+.frame .frame-wrapper-2 {
     height: 108px;
 }
 
-.Drinks-menu .div-11 {
+.frame .div-11 {
     height: 94px;
     left: 11px;
     overflow: hidden;
@@ -482,7 +488,7 @@
     width: 137px;
 }
 
-.Drinks-menu .div-12 {
+.frame .div-12 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -496,13 +502,13 @@
     width: 187px;
 }
 
-.Drinks-menu .div-13 {
+.frame .div-13 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
-    font-size: 12px;
+    font-size: 9px;
     font-weight: 400;
     height: 31px;
-    left: 3px;
+    right: -15px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -510,7 +516,7 @@
     width: 168px;
 }
 
-.Drinks-menu .div-14 {
+.frame .div-14 {
     height: 94px;
     left: 95px;
     overflow: hidden;
@@ -519,7 +525,7 @@
     width: 137px;
 }
 
-.Drinks-menu .overlap-6 {
+.frame .overlap-6 {
     height: 48px;
     left: 2px;
     position: absolute;
@@ -527,7 +533,7 @@
     width: 126px;
 }
 
-.Drinks-menu .text-wrapper-20 {
+.frame .text-wrapper-20 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -541,7 +547,7 @@
     width: 62px;
 }
 
-.Drinks-menu .text-wrapper-21 {
+.frame .text-wrapper-21 {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -555,7 +561,7 @@
     width: 126px;
 }
 
-.Drinks-menu .group-2 {
+.frame .group-2 {
     height: 72px;
     left: 25px;
     position: absolute;
@@ -563,16 +569,16 @@
     width: 151px;
 }
 
-.Drinks-menu .frame-wrapper-3 {
+.frame .frame-wrapper-3 {
     height: 72px;
     overflow: hidden;
 }
 
-.Drinks-menu .text-wrapper-22 {
+.frame .text-wrapper-22 {
     font-size: 9.2px;
 }
 
-.Drinks-menu .text-wrapper-23 {
+.frame .text-wrapper-23 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -585,7 +591,7 @@
     top: 64px;
 }
 
-.Drinks-menu .text-wrapper-24 {
+.frame .text-wrapper-24 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -598,7 +604,7 @@
     top: 109px;
 }
 
-.Drinks-menu .text-wrapper-25 {
+.frame .text-wrapper-25 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -611,7 +617,7 @@
     top: 262px;
 }
 
-.Drinks-menu .text-wrapper-26 {
+.frame .text-wrapper-26 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -624,7 +630,7 @@
     top: 237px;
 }
 
-.Drinks-menu .text-wrapper-27 {
+.frame .text-wrapper-27 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -637,7 +643,7 @@
     top: 215px;
 }
 
-.Drinks-menu .text-wrapper-28 {
+.frame .text-wrapper-28 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -650,7 +656,7 @@
     top: 37px;
 }
 
-.Drinks-menu .group-3 {
+.frame .group-3 {
     height: 181px;
     left: 24px;
     position: absolute;
@@ -662,7 +668,7 @@
     height: 181px;
 }
 
-.Drinks-menu .overlap-7 {
+.frame .overlap-7 {
     height: 140px;
     left: 2px;
     position: relative;
@@ -670,7 +676,7 @@
     width: 208px;
 }
 
-.Drinks-menu .div-15 {
+.frame .div-15 {
     height: 139px;
     left: 0;
     position: absolute;
@@ -678,7 +684,7 @@
     width: 208px;
 }
 
-.Drinks-menu .overlap-group-2 {
+.frame .overlap-group-2 {
     height: 15px;
     left: 3px;
     position: absolute;
@@ -686,7 +692,7 @@
     width: 188px;
 }
 
-.Drinks-menu .PINOT-GRIGIO-WHITE {
+.frame .PINOT-GRIGIO-WHITE {
     color: #000000;
     font-family: "Montserrat-Regular", Helvetica;
     font-size: 12px;
@@ -700,7 +706,7 @@
     width: 169px;
 }
 
-.Drinks-menu .text-wrapper-29 {
+.frame .text-wrapper-29 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 10.4px;
@@ -713,7 +719,7 @@
     top: 2px;
 }
 
-.Drinks-menu .text-wrapper-30 {
+.frame .text-wrapper-30 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 10.4px;
@@ -726,7 +732,7 @@
     top: 31px;
 }
 
-.Drinks-menu .text-wrapper-31 {
+.frame .text-wrapper-31 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 10.4px;
@@ -739,7 +745,7 @@
     top: 125px;
 }
 
-.Drinks-menu .text-wrapper-32 {
+.frame .text-wrapper-32 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 10.4px;
@@ -752,7 +758,7 @@
     top: 79px;
 }
 
-.Drinks-menu .WINE-CHAMPAGNE {
+.frame .WINE-CHAMPAGNE {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 15.7px;
@@ -766,7 +772,7 @@
     width: 185px;
 }
 
-.Drinks-menu .text-wrapper-33 {
+.frame .text-wrapper-33 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 15.7px;
@@ -780,7 +786,7 @@
     width: 185px;
 }
 
-.Drinks-menu .div-16 {
+.frame .div-16 {
     height: 525px;
     left: 476px;
     position: absolute;
@@ -788,7 +794,7 @@
     width: 44px;
 }
 
-.Drinks-menu .overlap-8 {
+.frame .overlap-8 {
     height: 15px;
     left: 17px;
     position: absolute;
@@ -796,7 +802,7 @@
     width: 8px;
 }
 
-.Drinks-menu .text-wrapper-34 {
+.frame .text-wrapper-34 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -809,7 +815,7 @@
     top: 0;
 }
 
-.Drinks-menu .text-wrapper-35 {
+.frame .text-wrapper-35 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -822,7 +828,7 @@
     top: 31px;
 }
 
-.Drinks-menu .text-wrapper-36 {
+.frame .text-wrapper-36 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -835,7 +841,7 @@
     top: 82px;
 }
 
-.Drinks-menu .text-wrapper-37 {
+.frame .text-wrapper-37 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -848,7 +854,7 @@
     top: 317px;
 }
 
-.Drinks-menu .text-wrapper-38 {
+.frame .text-wrapper-38 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -861,7 +867,7 @@
     top: 359px;
 }
 
-.Drinks-menu .text-wrapper-39 {
+.frame .text-wrapper-39 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -874,7 +880,7 @@
     top: 384px;
 }
 
-.Drinks-menu .text-wrapper-40 {
+.frame .text-wrapper-40 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -887,7 +893,7 @@
     top: 484px;
 }
 
-.Drinks-menu .text-wrapper-41 {
+.frame .text-wrapper-41 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -900,7 +906,7 @@
     top: 510px;
 }
 
-.Drinks-menu .text-wrapper-42 {
+.frame .text-wrapper-42 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -913,7 +919,7 @@
     top: 459px;
 }
 
-.Drinks-menu .text-wrapper-43 {
+.frame .text-wrapper-43 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -926,7 +932,7 @@
     top: 340px;
 }
 
-.Drinks-menu .text-wrapper-44 {
+.frame .text-wrapper-44 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
@@ -939,7 +945,7 @@
     top: 169px;
 }
 
-.Drinks-menu .text-wrapper-45 {
+.frame .text-wrapper-45 {
     color: #000000;
     font-family: "Montserrat-Bold", Helvetica;
     font-size: 12px;
