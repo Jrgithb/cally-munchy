@@ -1,9 +1,22 @@
 .shop-header {
+    display: flex;
     height: 57px;
     width: 530px;
     float: right;
     margin-right: 130px;
     top: -100px;
+    
+
+
+
+}
+
+.shop-header-img {
+    
+    width: 50%;
+    
+
+
 }
 
 .shop-section {
@@ -28,12 +41,12 @@
     color: black;
     display: inline-flex;
     justify-content: center;
-    cursor: pointer; 
+    cursor: pointer;
     float: top;
     margin-top: 1px;
-    
+
 }
 
-.find-out-more-btn:hover{
+.find-out-more-btn:hover {
     transform: scale(1.25);
 }
