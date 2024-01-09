@@ -2,19 +2,22 @@
     display: flex;
     height: 57px;
     width: 530px;
-    float: right;
-    margin-right: 130px;
+    float: left;
+    margin-left: 300px;
     top: -100px;
-    
+
 
 
 
 }
 
-.shop-header-img {
-    
-    width: 50%;
-    
+.shop-header-img img{
+
+    width: 500px;
+    height: 700px;
+    flex-shrink: 0;
+    top: 100%;
+
 
 
 }
