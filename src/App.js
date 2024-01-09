@@ -4,6 +4,7 @@ import Events from './Views/Reservation/Events/Events';
 import Calender from './Views/Reservation/Calender/Calender';
 import Drinks from './Views/Reservation/Drinks/Drinks';
 import Shop from './Views/Reservation/Shop/Shop';
+import Eform from './Views/Reservation/Eform/Eform';
 
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
       <Events/>
       <Calender/>
       <Drinks/>
-      <Shop/>
+      <Shop/> 
+      <Eform/>
     </div>
   );
 }
